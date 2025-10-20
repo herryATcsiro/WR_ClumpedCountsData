@@ -8,7 +8,7 @@ CumC - Cumulative counts
 Acum - Cumulative area
 Smple - Sample ID from 1: 1000 (repeated over x,y for each simulation)
 ```
-# poisgrd_stack.gre/gri - clumped stack {terra} of counts:
+# poisgrd_stack.grd/gri - clumped stack {terra} of counts:
 ```text
 class       : SpatRaster 
 dimensions  : 1000, 1000, 6  (nrow, ncol, nlyr)

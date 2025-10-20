@@ -1,4 +1,4 @@
-CSV file details:
+# CSV file details:
 x, y - coordinates (centroids from terra stack)
 name - Simulations 1 - 6
 A - Area (constant 25m2)
@@ -7,7 +7,7 @@ CumC - Cumulative counts
 Acum - Cumulative area
 Smple - Sample ID from 1: 1000 (repeated over x,y for each simulation)
 
-poisgrd_stack.gri/gri - clumped stack of counts:
+# poisgrd_stack.gri/gri - clumped stack of counts:
 class       : SpatRaster 
 dimensions  : 1000, 1000, 6  (nrow, ncol, nlyr)
 resolution  : 5, 5  (x, y)

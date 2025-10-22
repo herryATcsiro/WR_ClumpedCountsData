@@ -20,3 +20,5 @@ names       : Sim.1, Sim.2, Sim.3, Sim.4, Sim.5, Sim.6
 min values  :     0,     0,     0,     0,     0,     0 
 max values  :   125,   125,   125,   125,   125,   125 
 ```
+# Example_code_N50ind.r 
+contains analysis code example

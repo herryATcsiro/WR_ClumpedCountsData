@@ -23,6 +23,6 @@ max values  :   125,   125,   125,   125,   125,   125
 # Example_code_N50ind.r 
 contains analysis code example
 
-# gp_model_priors_v01R
+# gp_model_priors_v01.R
 example file for reasonable non-linear model priors
 
